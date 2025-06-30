@@ -34,17 +34,29 @@ que aceitem alunos estrangeiros.
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+Como usuário iniciante, quero criar um perfil com meus dados físicos e objetivos,
+para que o aplicativo possa me sugerir treinos adequados ao meu nível e metas.
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
+Como usuário regular, quero montar meus próprios treinos escolhendo os exercícios,
+repetições e dias da semana, para seguir uma rotina que funcione para mim.
+
+Como usuário sem experiência, quero receber sugestões de treinos automáticas
+baseadas no meu perfil, para começar a treinar mesmo sem muito conhecimento.
+
+Como usuário ativo, quero acompanhar minha evolução ao longo do tempo através
+de gráficos e relatórios, para entender meu progresso e ajustar meus objetivos.
+
+Como usuário que busca emagrecimento, quero saber quantas calorias estou
+gastando nos treinos, para acompanhar meu déficit calórico diário.
+
+Como usuário com rotina corrida, quero receber lembretes de treino nos dias e
+horários programados, para não esquecer de me exercitar.
+
+Como usuário com pouca experiência em tecnologia, quero navegar com facilidade
+pelo aplicativo, para que eu possa usar todas as funções sem dificuldade.
+
+Como usuário em evolução, quero atualizar meus objetivos sempre que necessário,
+para que o app continue adaptando meus treinos ao meu progresso.
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -56,36 +68,44 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+RF01. O sistema deve permitir o cadastro de usuários com informações pessoais e
+objetivos físicos.
+
+RF02. O sistema deve gerar sugestões de treinos personalizados com base no perfil e
+nas metas do usuário.
+
+RF03. O sistema deve permitir que o usuário crie, edite e salve seus próprios treinos.
+
+RF04. O sistema deve exibir o histórico de treinos e desempenho do usuário em
+forma de gráficos e relatórios.
+
+RF05. O sistema deve calcular e exibir a estimativa de calorias gastas em cada sessão
+de treino.
+
+RF06. O sistema deve enviar lembretes de treino nos dias e horários definidos pelo
+usuário.
+
+RF07. O sistema deve oferecer um modo de treino guiado com instruções visuais.
+
+RF08. O sistema deve permitir a alteração de metas e dados físicos do usuário.
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+RNF01. A interface do sistema deve ser responsiva, adaptando-se a dispositivos
+móveis e desktops.
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+RNF02. O sistema deve apresentar uma navegação simples e intuitiva para usuários
+com diferentes níveis de familiaridade com tecnologia.
+
+RNF03. O sistema deve garantir a segurança dos dados do usuário, incluindo uso de
+criptografia em senhas e informações sensíveis.
+
+RNF04. O sistema deve ter tempo de resposta inferior a 2 segundos para todas as
+principais funcionalidades.
+
+RNF05. O sistema deve estar disponível para uso em, no mínimo, 99% do tempo (alta
+disponibilidade).
 
 ## Restrições
 

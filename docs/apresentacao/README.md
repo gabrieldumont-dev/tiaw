@@ -17,7 +17,10 @@
 
 ## Slides
 
-Coloque aqui os slides da apresentação
+![Exemplo de Arquitetura](./images/slides/1.png)
+![Exemplo de Arquitetura](./images/slides/2.png)
+![Exemplo de Arquitetura](./images/slides/3.png)
+![Exemplo de Arquitetura](./images/slides/4.png)
 
 ## Vídeo
 

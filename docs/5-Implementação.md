@@ -41,7 +41,7 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 
 _Descrição da tela principal do sistema._
 
-[`Tela principal do sistema`](images/)
+[`Tela principal do sistema`](images/tela-princial.png)
 
 
 ## Telas do requisito 1
