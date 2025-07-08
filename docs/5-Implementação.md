@@ -42,6 +42,7 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 _Descrição da tela principal do sistema._
 
 [`Tela principal do sistema`](images/tela-princial.png)
+ ![](images/tela-princial.png)
 
 
 ## Telas do requisito 1
@@ -49,7 +50,9 @@ _Descrição da tela principal do sistema._
 _Descrição da tela relativa à atividade 1._
 
 [`Tela da atividade 1`](images/atividade1.png)
+ ![](images/atividade1.png)
 
 _Descrição da tela relativa à atividade 2._
 
 [`Tela da atividade 2`](images/atividade2.png)
+ ![](images/atividade2.png)

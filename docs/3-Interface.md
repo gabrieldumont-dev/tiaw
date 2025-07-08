@@ -24,7 +24,13 @@
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Exemplo de Wireframe](images/wireframes/1.jpeg)
+![Exemplo de Wireframe](images/wireframes/2.jpeg)
+![Exemplo de Wireframe](images/wireframes/3.jpeg)
+![Exemplo de Wireframe](images/wireframes/4.jpeg)
+![Exemplo de Wireframe](images/wireframes/5.jpeg)
+![Exemplo de Wireframe](images/wireframes/6.jpeg)
+![Exemplo de Wireframe](images/wireframes/7.jpeg)
 
 > São protótipos usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
