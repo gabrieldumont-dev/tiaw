@@ -8,11 +8,11 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+João Silva tem 28 anos, é analista de TI e disciplinado. Busca melhorar seu físico e saúde. Usa apps de treino, smartwatch e Spotify para acompanhar e registrar seu desempenho. Valoriza sistemas organizados, com recomendações e gráficos que mostrem sua evolução.
+
+Ana Pereira tem 35 anos, é personal trainer e muito comunicativa. Usa tablet, cronômetro e planilhas digitais para organizar os treinos dos alunos. Trabalha no estúdio e na academia, sempre focada em facilitar o acompanhamento e engajamento dos alunos. Busca ferramentas que economizem tempo e ajudem na gestão eficiente dos treinos.
+
+Carlos Mendes tem 42 anos, é dono de academias e muito estratégico. Usa softwares de gestão e redes sociais para organizar processos e divulgar o negócio. Trabalha no escritório da academia, acompanhando métricas e relatórios. Busca soluções que otimizem a operação e destaquem sua academia no mercado.
 
 
 > Enumere e detalhe as personas da sua solução. Para
@@ -71,23 +71,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 RF01. O sistema deve permitir o cadastro de usuários com informações pessoais e
 objetivos físicos.
 
-RF02. O sistema deve gerar sugestões de treinos personalizados com base no perfil e
-nas metas do usuário.
+RF02. O sistema deve permitir que o usuário crie, edite e salve seus próprios treinos.
 
-RF03. O sistema deve permitir que o usuário crie, edite e salve seus próprios treinos.
-
-RF04. O sistema deve exibir o histórico de treinos e desempenho do usuário em
+RF03. O sistema deve exibir o histórico de treinos e desempenho do usuário em
 forma de gráficos e relatórios.
 
-RF05. O sistema deve calcular e exibir a estimativa de calorias gastas em cada sessão
+RF04. O sistema deve calcular e exibir a estimativa de calorias gastas em cada sessão
 de treino.
 
-RF06. O sistema deve enviar lembretes de treino nos dias e horários definidos pelo
+RF05. O sistema deve enviar lembretes de treino nos dias e horários definidos pelo
 usuário.
 
-RF07. O sistema deve oferecer um modo de treino guiado com instruções visuais.
-
-RF08. O sistema deve permitir a alteração de metas e dados físicos do usuário.
+RF06. O sistema deve permitir a alteração de metas e dados físicos do usuário.
 
 
 ### Requisitos não Funcionais

@@ -48,22 +48,8 @@ _Descrição da tela principal do sistema._
 
 _Descrição da tela relativa à atividade 1._
 
-[`Tela da atividade 1`](images/)
+[`Tela da atividade 1`](images/atividade1.png)
 
 _Descrição da tela relativa à atividade 2._
 
-[`Tela da atividade 2`](images/)
-
-
-## Telas do requisito 2
-
-_Descrição da tela relativa à atividade 1._
-
-[`Tela da atividade 1`](images/)
-
-_Descrição da tela relativa à atividade 2._
-
-[`Tela da atividade 2`](images/)
-
-
-
+[`Tela da atividade 2`](images/atividade2.png)
